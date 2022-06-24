@@ -1,0 +1,74 @@
+.header {
+  background-color: #ffffff;
+  background-image: url(../se_project_coffeeshop/Images/background_header.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  background-position: center;
+  height: 100vh;
+  max-height: 800px;
+  min-height: 720px;
+}
+.header__title {
+  margin-top: 80px;
+  margin-left: 80px;
+  font-family: Noto Serif;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 60px;
+  line-height: 72px;
+  color: #2f80ed;
+}
+.header__title-span-accent {
+  max-width: 729px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 72px;
+}
+.header__image {
+  width: 646px;
+  height: 568px;
+  position: absolute;
+  top: 124px;
+  right: 5px;
+}
+.header__description {
+  max-width: 683px;
+  margin-left: 80px;
+  font-family: Noto Serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+}
+.header__footer {
+  margin-left: 80px;
+  margin-bottom: 40px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  position: absolute;
+  bottom: 40px;
+  justify-content: space-between;
+  align-content: center;
+  align-items: flex-end;
+  flex-direction: row;
+  width: 100%;
+}
+.header__footer_p {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 0px;
+}
+.header__addy {
+  margin-right: 80px;
+  padding-right: 80px;
+}

@@ -1,0 +1,31 @@
+.menu {
+  background-color: #0a2750;
+  background-image: url(../se_project_coffeeshop/Images/background_menu.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.menu__title {
+  max-width: 780px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+  margin: auto;
+  text-align: center;
+  color: #ffffff;
+  padding-top: 100px;
+}
+.menu__subtitle {
+  max-width: 780px;
+  font-family: Noto Serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  margin: auto;
+  text-align: center;
+  margin-top: 24px;
+  margin-bottom: 100px;
+  color: #ffffff;
+}
