@@ -7,7 +7,7 @@
   max-height: 800px;
   min-height: 720px;
 }
-.rep__title {
+.recipes__title {
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
@@ -17,7 +17,7 @@
   max-width: 580px;
   margin-top: 100px;
 }
-.rep__subtitle {
+.recipes__subtitle {
   font-family: "Noto", serif;
   font-style: normal;
   font-weight: normal;
