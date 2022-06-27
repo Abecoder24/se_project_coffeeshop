@@ -46,8 +46,8 @@
   line-height: 30px;
 }
 .header__footer {
-  margin-left: 80px;
-  margin-bottom: 40px;
+  left: 80px;
+  right: 80px;
   font-family: Inter;
   font-style: normal;
   font-weight: 500;
@@ -60,7 +60,6 @@
   align-content: center;
   align-items: flex-end;
   flex-direction: row;
-  width: 100%;
 }
 .header__paragraph {
   font-family: Inter;
