@@ -26,14 +26,14 @@
 .footer__list {
   padding: 0;
 }
-.ffooter__list-items {
+.footer__list-items {
   list-style: none;
   margin-top: 16px;
 }
 .footer__list:first-of-type {
   margin-top: 20px;
 }
-.footer__list_item {
+.footer__list-item {
   width: 16px;
   height: 16px;
   margin-right: 10px;
