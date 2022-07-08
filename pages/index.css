@@ -11,7 +11,3 @@
 @import url(../blocks/recipes.css);
 @import url(../blocks/reservation.css);
 @import url(../blocks/cards.css);
-body {
-  /* if the font file doesn't load, the browser will use either Arial or Helvetica. As a last resort, it will use whatever sans-serif font it can find on the user's device. */
-  font-family: "Arial", "Helvetica", sans-serif;
-}
