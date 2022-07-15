@@ -9,6 +9,7 @@
   max-height: 800px;
   min-height: 720px;
   z-index: 0;
+  padding-top: 30px;
 }
 .header__title {
   margin-top: 80px;
@@ -76,7 +77,4 @@
   line-height: 20px;
   margin: 0px;
   color: #6f6f6f;
-}
-.header__addy {
-  padding-right: 80px;
 }
